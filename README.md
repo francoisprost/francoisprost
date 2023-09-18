@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm francoisprost</h1>
+<h1 align="center">Hi 👋, I'm François PROST</h1>
 <h3 align="center">A French embedded systems engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=francoisprost&label=Profile%20views&color=0e75b6&style=flat" alt="francoisprost" /> </p>
